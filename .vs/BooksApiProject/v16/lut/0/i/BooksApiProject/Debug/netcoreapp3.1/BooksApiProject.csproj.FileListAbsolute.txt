@@ -1,0 +1,16 @@
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\BooksApiProject\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\BooksApiProject\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\BooksApiProject\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\BooksApiProject\Debug\netcoreapp3.1\BooksApiProject.exe
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\BooksApiProject\Debug\netcoreapp3.1\BooksApiProject.deps.json
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\BooksApiProject\Debug\netcoreapp3.1\BooksApiProject.runtimeconfig.json
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\BooksApiProject\Debug\netcoreapp3.1\BooksApiProject.runtimeconfig.dev.json
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\BooksApiProject\Debug\netcoreapp3.1\BooksApiProject.dll
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\i\BooksApiProject\Debug\netcoreapp3.1\BooksApiProject.csprojAssemblyReference.cache
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\i\BooksApiProject\Debug\netcoreapp3.1\BooksApiProject.AssemblyInfoInputs.cache
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\i\BooksApiProject\Debug\netcoreapp3.1\BooksApiProject.AssemblyInfo.cs
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\i\BooksApiProject\Debug\netcoreapp3.1\BooksApiProject.RazorTargetAssemblyInfo.cache
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\i\BooksApiProject\Debug\netcoreapp3.1\BooksApiProject.csproj.CopyComplete
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\i\BooksApiProject\Debug\netcoreapp3.1\staticwebassets\BooksApiProject.StaticWebAssets.Manifest.cache
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\i\BooksApiProject\Debug\netcoreapp3.1\staticwebassets\BooksApiProject.StaticWebAssets.xml
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\i\BooksApiProject\Debug\netcoreapp3.1\BooksApiProject.dll

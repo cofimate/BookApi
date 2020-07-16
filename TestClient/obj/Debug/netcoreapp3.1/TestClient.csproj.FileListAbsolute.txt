@@ -1,0 +1,15 @@
+C:\Users\ccofl\source\repos\BooksApiProject\TestClient\bin\Debug\netcoreapp3.1\TestClient.exe
+C:\Users\ccofl\source\repos\BooksApiProject\TestClient\obj\Debug\netcoreapp3.1\TestClient.AssemblyInfoInputs.cache
+C:\Users\ccofl\source\repos\BooksApiProject\TestClient\obj\Debug\netcoreapp3.1\TestClient.AssemblyInfo.cs
+C:\Users\ccofl\source\repos\BooksApiProject\TestClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ccofl\source\repos\BooksApiProject\TestClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ccofl\source\repos\BooksApiProject\TestClient\obj\Debug\netcoreapp3.1\TestClient.csproj.CopyComplete
+C:\Users\ccofl\source\repos\BooksApiProject\TestClient\bin\Debug\netcoreapp3.1\TestClient.deps.json
+C:\Users\ccofl\source\repos\BooksApiProject\TestClient\bin\Debug\netcoreapp3.1\TestClient.runtimeconfig.json
+C:\Users\ccofl\source\repos\BooksApiProject\TestClient\bin\Debug\netcoreapp3.1\TestClient.runtimeconfig.dev.json
+C:\Users\ccofl\source\repos\BooksApiProject\TestClient\bin\Debug\netcoreapp3.1\TestClient.dll
+C:\Users\ccofl\source\repos\BooksApiProject\TestClient\bin\Debug\netcoreapp3.1\TestClient.pdb
+C:\Users\ccofl\source\repos\BooksApiProject\TestClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ccofl\source\repos\BooksApiProject\TestClient\obj\Debug\netcoreapp3.1\TestClient.dll
+C:\Users\ccofl\source\repos\BooksApiProject\TestClient\obj\Debug\netcoreapp3.1\TestClient.pdb
+C:\Users\ccofl\source\repos\BooksApiProject\TestClient\obj\Debug\netcoreapp3.1\TestClient.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\XUnitTestProject1\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\XUnitTestProject1\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\XUnitTestProject1\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\XUnitTestProject1\Debug\netcoreapp3.1\BooksApiProject.exe
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\XUnitTestProject1\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\XUnitTestProject1\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\XUnitTestProject1\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\XUnitTestProject1\Debug\netcoreapp3.1\XUnitTestProject1.deps.json
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\XUnitTestProject1\Debug\netcoreapp3.1\XUnitTestProject1.runtimeconfig.json
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\XUnitTestProject1\Debug\netcoreapp3.1\XUnitTestProject1.runtimeconfig.dev.json
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\b\XUnitTestProject1\Debug\netcoreapp3.1\XUnitTestProject1.dll
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\i\XUnitTestProject1\Debug\netcoreapp3.1\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\i\XUnitTestProject1\Debug\netcoreapp3.1\XUnitTestProject1.AssemblyInfo.cs
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\i\XUnitTestProject1\Debug\netcoreapp3.1\XUnitTestProject1.csproj.CopyComplete
+C:\Users\ccofl\source\repos\BooksApiProject\.vs\BooksApiProject\v16\lut\0\i\XUnitTestProject1\Debug\netcoreapp3.1\XUnitTestProject1.dll
